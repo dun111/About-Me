@@ -1,19 +1,22 @@
+@import url('https://fonts.google.com/share?selection.family=Rubik:ital,wght');
+
+
 body {
   text-align: center;
   font-size: 20px;
   margin: 50px 0;
-  font-family:'arial';
+  font-family:'rubik';
 }
 
 h1{
-  font-family:'arial';
+  font-family:'rubik';
   font-size:50px;
   background-color:lightblue;
 }
 
 span{
   font-size:25px;
-  font-family:'arial';
+  font-family:'rubik';
 }
 
 p{
@@ -24,10 +27,10 @@ p{
   padding-bottom:1%;
   padding-right:1px;
   padding-left:1%;
-  font-family:'arial';
+  font-family:'rubik';
 }
 
 head{
   background-color:lightblue;
-  font-family:'arial';
+  font-family:'rubik';
 }
