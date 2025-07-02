@@ -2,16 +2,18 @@ body {
   text-align: center;
   font-size: 20px;
   margin: 50px 0;
+  font-family:'arial';
 }
 
 h1{
-  font-family:'righteous';
+  font-family:'arial';
   font-size:50px;
   background-color:lightblue;
 }
 
 span{
   font-size:25px;
+  font-family:'arial';
 }
 
 p{
@@ -22,4 +24,10 @@ p{
   padding-bottom:1%;
   padding-right:1px;
   padding-left:1%;
+  font-family:'arial';
+}
+
+head{
+  background-color:lightblue;
+  font-family:'arial';
 }
