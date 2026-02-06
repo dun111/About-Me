@@ -1,7 +1,12 @@
 @import url('https://fonts.google.com/share?selection.family=Rubik:ital,wght');
+@import url('https://fonts.google.com/share?selection.family=Raleway:ital,wght@0,100..900;1,100..900')
 
 html {
-  font-family:'rubik';
+  font-family:'Raleway';
   font-size:50px;
-  background-color:lightblue;
+  background-color:black;
+}
+
+body{
+  color: white;
 }
